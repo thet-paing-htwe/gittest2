@@ -1,2 +1,6 @@
 bye 
 hey
+name 
+age 
+gender
+dob
