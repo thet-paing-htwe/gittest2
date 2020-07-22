@@ -1,4 +1,2 @@
 git test
 hey 
-hi 
-hello
